@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Igor</h1>
-  <p><b>Estudante de ADS | Fullstack Developer | Game Modding & Automation enthusiast</b></p>
+  <p><b>Estudante de ADS | Fullstack Developer | Reverse Engineering & Game Modding & Automation enthusiast</b></p>
 </div>
 
 ---
